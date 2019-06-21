@@ -9,7 +9,7 @@
 *Description:*
 A web app where users with exotic and mythical animals form a community. People can list their animals for sale, hangout with dragons or have playdates with other exotic pets. Sometimes people get bored of drawing on their pet turtle's shell or they're tired of their cave troll smashing up their backyard. Pictures, descriptions, contact info and price are some of the data required in the posts. Users have to login in order to post, edit and delete posts. Users contact other users through email.
 
-*Technoglies Used:*
+*Technologies Used:*
 HTML, CSS, Javascript, Materialise, Django, Python, PostgreSQL, Amazon AWS, Heroku
 
 *Link to App:*
