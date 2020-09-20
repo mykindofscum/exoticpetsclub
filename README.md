@@ -13,7 +13,7 @@ A web app where users with exotic and mythical animals form a community. People 
 HTML, CSS, Javascript, Materialise, Django, Python, PostgreSQL, Amazon AWS, Heroku
 
 *Link to App:*
-http://www.exoticpets.club/ Instructions: Sign up with a username and password. Then you're automatically signed in. Create a post for your pet by clicking on the New Posts button. Browse Posts of animal listings, comment, post your own animals in the listing, add description, upload a photo.  
+Instructions: Sign up with a username and password. Then you're automatically signed in. Create a post for your pet by clicking on the New Posts button. Browse Posts of animal listings, comment, post your own animals in the listing, add description, upload a photo.  
 
 
 *Next Steps:*
